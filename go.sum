@@ -1,9 +1,9 @@
-github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
-github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/LinuxUserGD/boar v0.0.0-20240305001421-736a5ed4fed8 h1:wqAI3GG0duhvUA/qT+q6At0yzvodM/l2uBSvzE6VfP8=
-github.com/LinuxUserGD/boar v0.0.0-20240305001421-736a5ed4fed8/go.mod h1:RYj0PCwGingUEP+e6SAPnTLFIL2dUB+SboNjkyc/Vo4=
-github.com/LinuxUserGD/dmcunrar-go v0.0.0-20240304230007-c8af624e53f1 h1:4xdPB5uP3nXr1+p72kNLOc06Rj3oalyy4bNdUM2NHcg=
-github.com/LinuxUserGD/dmcunrar-go v0.0.0-20240304230007-c8af624e53f1/go.mod h1:cRqO6W76qaDYJshbBhEtVrsyxD3uVFqNnffWsrClpMY=
+github.com/BurntSushi/toml v1.3.2 h1:o7IhLm0Msx3BaB+n3Ag7L8EVlByGnpq14C4YWiu/gL8=
+github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
+github.com/LinuxUserGD/boar v0.0.0-20240305014643-ba715896792c h1:PJax9fP9IF2uGm7NWMaVDZlbjoSnMyv/B4e7bGpLxCE=
+github.com/LinuxUserGD/boar v0.0.0-20240305014643-ba715896792c/go.mod h1:+bfZOFzK0vV+btS6Z5B/EEZLJmfgmcZ8XvSP1n7pCI4=
+github.com/LinuxUserGD/dmcunrar-go v0.0.0-20240305014023-32e1993302a3 h1:xZyV8HDsdskh3rdj5pZvaAHdcYDjZ095XDnFzaLrJJI=
+github.com/LinuxUserGD/dmcunrar-go v0.0.0-20240305014023-32e1993302a3/go.mod h1:cRqO6W76qaDYJshbBhEtVrsyxD3uVFqNnffWsrClpMY=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d/go.mod h1:rBZYJk541a8SKzHPHnH3zbiI+7dagKZ0cgpgrD7Fyho=
 github.com/basgys/goxml2json v1.1.0 h1:4ln5i4rseYfXNd86lGEB+Vi652IsIXIvggKM/BhUKVw=

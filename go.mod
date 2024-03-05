@@ -5,8 +5,8 @@ go 1.21.4
 toolchain go1.22.0
 
 require (
-	github.com/BurntSushi/toml v0.3.1
-	github.com/LinuxUserGD/boar v0.0.0-20240305001421-736a5ed4fed8
+	github.com/BurntSushi/toml v1.3.2
+	github.com/LinuxUserGD/boar v0.0.0-20240305014643-ba715896792c
 	github.com/dchest/safefile v0.0.0-20151022103144-855e8d98f185
 	github.com/itchio/go-itchio v0.0.0-20220331180553-1811474a71ea
 	github.com/itchio/headway v0.0.0-20200301160421-e15721f23905
@@ -22,7 +22,7 @@ require (
 )
 
 require (
-	github.com/LinuxUserGD/dmcunrar-go v0.0.0-20240304230007-c8af624e53f1 // indirect
+	github.com/LinuxUserGD/dmcunrar-go v0.0.0-20240305014023-32e1993302a3 // indirect
 	github.com/basgys/goxml2json v1.1.0 // indirect
 	github.com/certifi/gocertifi v0.0.0-20210507211836-431795d63e8d // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
