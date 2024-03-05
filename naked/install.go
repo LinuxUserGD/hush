@@ -3,9 +3,9 @@ package naked
 import (
 	"path/filepath"
 
-	"github.com/itchio/hush"
-	"github.com/itchio/hush/bfs"
-	"github.com/itchio/hush/download"
+	"github.com/LinuxUserGD/hush"
+	"github.com/LinuxUserGD/hush/bfs"
+	"github.com/LinuxUserGD/hush/download"
 	"github.com/pkg/errors"
 )
 

@@ -1,6 +1,6 @@
 package archive
 
-import "github.com/itchio/hush"
+import "github.com/LinuxUserGD/hush"
 
 type Manager struct {
 }

@@ -1,6 +1,6 @@
 package naked
 
-import "github.com/itchio/hush"
+import "github.com/LinuxUserGD/hush"
 
 func (m *Manager) Uninstall(params hush.UninstallParams) error {
 	// install folder is getting wiped anyway, nothing

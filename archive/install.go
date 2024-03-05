@@ -8,9 +8,9 @@ import (
 	"github.com/LinuxUserGD/boar"
 	"github.com/itchio/savior"
 
-	"github.com/itchio/hush"
-	"github.com/itchio/hush/bfs"
-	"github.com/itchio/hush/intervalsaveconsumer"
+	"github.com/LinuxUserGD/hush"
+	"github.com/LinuxUserGD/hush/bfs"
+	"github.com/LinuxUserGD/hush/intervalsaveconsumer"
 	"github.com/pkg/errors"
 )
 

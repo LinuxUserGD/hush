@@ -9,8 +9,8 @@ import (
 	"github.com/itchio/httpkit/eos"
 	"github.com/itchio/httpkit/htfs"
 	"github.com/itchio/httpkit/retrycontext"
-	"github.com/itchio/hush/download/downloadextractor"
-	"github.com/itchio/hush/intervalsaveconsumer"
+	"github.com/LinuxUserGD/hush/download/downloadextractor"
+	"github.com/LinuxUserGD/hush/intervalsaveconsumer"
 	"github.com/itchio/intact"
 	"github.com/itchio/savior"
 
