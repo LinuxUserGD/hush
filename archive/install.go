@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/itchio/boar"
+	"github.com/LinuxUserGD/boar"
 	"github.com/itchio/savior"
 
 	"github.com/itchio/hush"
